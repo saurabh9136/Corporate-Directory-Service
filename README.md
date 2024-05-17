@@ -13,4 +13,4 @@ Corporate Directory Service is a Django-based web application for managing compa
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/saurabh9136/Corporate-Directory-Service
